@@ -1,6 +1,6 @@
 # UH3-RestoreSleepPD Study
 
-#### Matlab app to record video during sleep
+#### Matlab app to assess LFP from brief recording
 
 <!-- PROJECT LOGO -->
 <br />
@@ -10,22 +10,23 @@
     <img src="Images_RM/sleepBrain.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Sleep Video Recording Application</h3>
+  <h3 align="center">LFP Quality Control Application</h3>
 
   <p align="center">
-    Matlab GUI application to record during UH3 study
+    Matlab GUI application to assess short LFP recording
     <br />
-    <a href="https://github.com/UH3-RestoreSleepPD/SleepVideoRecord"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/UH3-RestoreSleepPD/SingleNightSignalCheck"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-      <a href="https://github.com/UH3-RestoreSleepPD/SleepVideoRecord/tree/main/SleepVideoGUI_Code/Record_IR_Video_App_v02142021.mlapp"><strong>Latest Version »</strong></a>
+      <a href="https://github.com/UH3-RestoreSleepPD/SingleNightSignalCheck/blob/main/SNSC_Abv_App_02142021.mlapp"><strong>Latest Version »</strong></a>
     <br />
     <br />
     ·
-    <a href="https://github.com/UH3-RestoreSleepPD/SleepVideoRecord/issues">Report Bug</a>
+    <a href="https://github.com/UH3-RestoreSleepPD/SingleNightSignalCheck/issues">Report Bug</a>
     ·
-    <a href="https://github.com/UH3-RestoreSleepPD/SleepVideoRecord/issues">Request Feature</a>
+    <a href="https://github.com/UH3-RestoreSleepPD/SingleNightSignalCheck/issues">Request Feature</a>
   </p>
+
 
 </p>
 
@@ -36,16 +37,16 @@
 ##### 1. Enter name of GUI application in Command Window
 
 ```matlab
->> Record_IR_Video_App_v02012021
+>> SNSC_Abv_App_02142021
 ```
 
-##### 2. Upon opening GUI you will be prompted to enter the Save Location
+##### 2. Upon opening GUI you will be prompted to enter the correct CEEG channel numbers
 
-![](Images_RM2/screen1.png)
+![](Images_RM/Screen1.png)
 
-##### 3: Use directory window to navigate to save location
+##### 3: Select for each of the 4 channels from the drop down menus
 
-![](Images_RM2/screen2.png)
+![](Images_RM/Screen2.png)
 
 ##### 4. After setting save location you will be promoted to enter a File name
 
