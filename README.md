@@ -48,63 +48,24 @@
 
 ![](Images_RM/Screen2.png)
 
-##### 4. After setting save location you will be promoted to enter a File name
+##### 4. Press the CEEG Sel ID button after selecting the appropriate channels
 
-![](Images_RM2/screen3.png)
+![](Images_RM/Screen3.png)
 
-##### 5. You will be prompted to enter File information
+##### 5. You will be prompted to press the LOAD button
 
-- Subject number 
-- Institution
-- Night of sleep (number)
+![](Images_RM/Screen4.png)
 
-![](Images_RM2/screen4.png)
+##### 6. Press the LOAD button
 
-##### 6. Save location and File name will be indicated in the 'Record Save Location' text field box - Now Preview button available
+![](Images_RM/Screen5.png)
 
-![](Images_RM2/screen5.png)
+##### 7. If the Channels pass the quality control check then the lights will turn green
 
-##### 7. Use the Preview Button to check the Camera view
+![](Images_RM/Screen6.png)
 
-![](Images_RM2/screen6.png)
 
-##### 8. Unclick the Preview to permit Recording
 
-##### 9. Before activating the 'Record' function, check the recording duration [in minutes]
 
-![](Images_RM2/screen7.png)
 
-##### 10. The Start Recording will be available
-
-![](Images_RM2/screen8.png)
-
-##### 11. During recording, the display will indicate the current hour block recorded
-
-![](Images_RM2/screen9.png)
-
-##### 12. If the RECORDING completes the set time then the CLOSE request will appear
-
-![](Images_RM2/screen10.png)
-
-##### 13. To start a new recording, restart the GUI by pressing the CLOSE button
-
-![](Images_RM2/screen11.png)
-
-##### 14. To stop the recording before the set time, press the 'Stop Early' button
-
-![](Images_RM2/screen12.png)
-
-##### 15. Early stop will execute the CLOSE request
-
-![](Images_RM2/screen11.png)
-
-Trouble-shooting:
-
-| Issue                       | Code output                                                  | Solution                            |
-| --------------------------- | ------------------------------------------------------------ | ----------------------------------- |
-| HD USB Camera not available | ![](Images_RM/troubleshooting1a.png)                         | Restart Matlab and reconnect camera |
-|                             |                                                              |                                     |
-|                             |                                                              |                                     |
-|                             |                                                              |                                     |
-|                             |                                                              |                                     |
 
