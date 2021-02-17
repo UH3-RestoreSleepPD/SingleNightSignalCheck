@@ -37,30 +37,14 @@
 ##### 1. Enter name of GUI application in Command Window
 
 ```matlab
->> SNSC_Abv_App_02142021
+>> SNSC_Abv_App_02162021
 ```
 
-##### 2. Upon opening GUI you will be prompted to enter the correct CEEG channel numbers
-
-![](Images_RM/Screen1.png)
-
-##### 3: Select for each of the 4 channels from the drop down menus
-
-![](Images_RM/Screen2.png)
-
-##### 4. Press the CEEG Sel ID button after selecting the appropriate channels
-
-![](Images_RM/Screen3.png)
-
-##### 5. You will be prompted to press the LOAD button
-
-![](Images_RM/Screen4.png)
-
-##### 6. Press the LOAD button
+##### 1. Press the LOAD button
 
 ![](Images_RM/Screen5.png)
 
-##### 7. If the Channels pass the quality control check then the lights will turn green
+##### 2. If the Channels pass the quality control check then the lights will turn green
 
 ![](Images_RM/Screen6.png)
 
